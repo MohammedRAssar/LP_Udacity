@@ -12,3 +12,7 @@ Mohammed Rezk Assar
 - HTML
 - CSS
 - JavaScript
+
+### Resources
+- [nfp disscussions](https://nfpdiscussions.udacity.com/c/questions-hub/web-professional-questions-hub/85)
+- [Landing Page Walkthrough](https://nfpdiscussions.udacity.com/t/web-webinar-recordings-january/331402#:~:text=landing%2Dpage%2Dwalkthrough)
